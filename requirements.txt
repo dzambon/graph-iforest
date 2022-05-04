@@ -1,0 +1,34 @@
+cdg @ git+https://github.com/dzambon/cdg.git@f3e31b9dd96e97bc7a4a36c93d0b5318ea9b3d61
+certifi==2021.10.8
+charset-normalizer==2.0.12
+cycler==0.11.0
+Cython==0.29.28
+eif @ git+https://github.com/sahandha/eif.git@5363acde955e43b5728151443b900585c363fafe
+fonttools==4.33.3
+grnf @ git+https://github.com/dzambon/graph-random-neural-features.git@d7c41375f9e0f27d1e1b01e77d2a4641385c1a02
+idna==3.3
+Jinja2==3.1.2
+joblib==1.1.0
+kiwisolver==1.4.2
+MarkupSafe==2.1.1
+matplotlib==3.5.2
+networkx==2.8
+numpy==1.22.1
+packaging==21.3
+pandas==1.4.2
+Pillow==9.1.0
+pyparsing==3.0.8
+python-dateutil==2.8.2
+pytz==2022.1
+requests==2.27.1
+scikit-learn==1.0.2
+scipy==1.8.0
+six==1.16.0
+threadpoolctl==3.1.0
+torch==1.10.1+cpu
+torch-geometric==2.0.4
+torch-scatter==2.0.9
+torch-sparse==0.6.13
+tqdm==4.64.0
+typing-extensions==4.2.0
+urllib3==1.26.9
